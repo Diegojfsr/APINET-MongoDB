@@ -1,0 +1,26 @@
+Construindo um projeto de uma API.NET integrada ao MongoDB
+
+Pasta dotnet-mongo-master
+
+Pasta api
+
+Pasta controllers
+infectadocontroller.cs
+
+Pasta data
+mongodb.cs
+Pasta collections
+infectado.cs
+
+Pasta models
+infectadodto.cs
+
+Pasta properties
+launchsettings.json
+
+api.csproj
+appsettings.development.json
+appsettings.json
+Program.cs
+Startup.cs
+Readme.md
